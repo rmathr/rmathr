@@ -1,4 +1,8 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
+
+<div id="header" align="center">
+  <img src="https://giphy.com/stickers/gimitheapp-tech-1NYkJ0wTvncdXV5dN5" width="100"/>
+</div>
 
 <!--
 **rmathr/rmathr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
