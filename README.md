@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXI4dGpvbjRlMW4wYXZwbGoxZXl3cnJiaTdhZTlzYWkxdXJmdnlhaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/1NYkJ0wTvncdXV5dN5/giphy.gif" width="100"/>
 <div>
-   <a href="https://www.linkedin.com/in/matheus-rodrigues-ba4031161">
+   <a href="https://www.linkedin.com/in/rmathr">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div
@@ -18,7 +18,7 @@
 ### 🚀 About Me :
 I'm a Mechanical Engineer and a Web Developer from Brazil.
  - :seedling: I'm currently learning node.js and TypeScript.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rmath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-ba4031161)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rmath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rmathr)
 
 
 
