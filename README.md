@@ -16,7 +16,7 @@
 
 ---
 ### 🚀 About Me :
-I'm a Mechanical Engineer pursuing a career in Web Development.
+I'm a Mechanical Engineer and a Web Developer from Brazil.
  - :seedling: I'm currently learning node.js and TypeScript.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rmath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-rodrigues-ba4031161)
 
