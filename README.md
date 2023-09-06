@@ -16,9 +16,11 @@
 
 ---
 ### 🚀 About Me :
-I'm a Mechanical Engineer and a Web Developer from Brazil.
- - :seedling: I'm currently learning node.js and TypeScript.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rmath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rmathr)
+I'm a Web Developer and a Mechanical Engineer from Porto Alegre, Brazil.
+
+- :seedling: Currently learning TypeScript.
+- :boom: Interested in Java, PHP and space stuff.
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rmath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rmathr)
 
 
 
