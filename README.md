@@ -16,10 +16,12 @@
 
 ---
 ### 🚀 About Me :
-I'm a Web Developer and a Mechanical Engineer from Porto Alegre, Brazil.
+I'm a Web Developer from Porto Alegre, Brazil.
 
 - :seedling: Currently learning TypeScript.
 - :boom: Interested in Java, PHP and space stuff.
+- :classical_building: Graduated in Mechanical Engineering (UFRGS).
+- :dog: I have a dog called Manchinha.
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rmath-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rmathr)
 
 
